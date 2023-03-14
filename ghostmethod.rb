@@ -1,4 +1,4 @@
-class GhostMethod
+class Ghost
   def method_missing(name,*args)
     puts "calling ghost method"
   end
