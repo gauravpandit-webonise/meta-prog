@@ -4,3 +4,4 @@ class Ghost
   end
 end
 Ghost.new.abc
+

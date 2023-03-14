@@ -6,3 +6,4 @@ class Continent
 end
 Continent.new.asia("asia is the biggest continent")
 Continent.new.antartica("antartica is the coldest continent")
+

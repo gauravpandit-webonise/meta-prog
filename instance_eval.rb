@@ -26,3 +26,4 @@ end
 
 Employee.print_details
 emp1.print_detail
+

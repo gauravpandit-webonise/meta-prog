@@ -20,3 +20,4 @@ end
 employee_1=Employee.new("jack","maharashtra",15000)
 employee_1.print_details
 employee_1.print_salary
+
